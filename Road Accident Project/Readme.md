@@ -12,7 +12,6 @@ This interactive dashboard presents a comprehensive analysis of road accident da
 - Accidents by Road Type & Light Condition
 - Geographic Distribution of Accidents (UK)
 
----
 
 ## 📊 Tools & Technologies
 
@@ -22,12 +21,10 @@ This interactive dashboard presents a comprehensive analysis of road accident da
   - Map Visual with Location Data
   - Slicers for Road and Weather Conditions
 
----
 
 Created by Fahriza Haldi  
 GitHub: (https://github.com/aldifahriza)
-
----
+LinkedIn: [https://www.linkedin.com/in/fahriza-haldi-b72168373]
 
 ## 📌 Notes
 

@@ -5,12 +5,12 @@
 
 This interactive dashboard presents a comprehensive analysis of road accident data with multiple breakdowns, including:
 
-- Total Casualties** (fatal, serious, slight)
-- Vehicle Types Involved**
-- Monthly Trend of Casualties**
-- Urban vs Rural Distribution**
-- Accidents by Road Type & Light Condition**
-- Geographic Distribution of Accidents (UK)**
+- Total Casualties (fatal, serious, slight)
+- Vehicle Types Involved
+- Monthly Trend of Casualties
+- Urban vs Rural Distribution
+- Accidents by Road Type & Light Condition
+- Geographic Distribution of Accidents (UK)
 
 ---
 

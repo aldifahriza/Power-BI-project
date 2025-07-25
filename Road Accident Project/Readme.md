@@ -1,7 +1,7 @@
 # 🛣️ Road Accident Analysis Dashboard
 
-!(./Dashboard-Preview.png
-)
+![Dashboard Screenshot](./Dashboard-Preview.png)
+
 
 This interactive dashboard presents a comprehensive analysis of road accident data with multiple breakdowns, including:
 

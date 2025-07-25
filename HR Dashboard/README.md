@@ -6,7 +6,8 @@ Each folder represents a different project with its own dataset, .pbix file, scr
 
 ## 🗂️ Projects Included
 
-- [HR Dashboard](./HR-Dashboard) – Analyze employee attrition, satisfaction, and demographics.
+- ![Dashboard Preview](./Dashboard-Preview.png)
+ – Analyze employee attrition, satisfaction, and demographics.
 
 More projects will be added soon!
 
